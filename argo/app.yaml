@@ -13,7 +13,7 @@ spec:
       recurse: true
     path: app
     repoURL: https://github.com/techgirlgeek-rosa/openshift-gitops-getting-started.git
-    targetRevision: "1.1"
+    targetRevision: main
   syncPolicy:
     automated:
       prune: true
